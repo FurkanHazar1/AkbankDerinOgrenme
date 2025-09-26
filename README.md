@@ -11,9 +11,9 @@ Train ve test işlemleri için iki adet veri seti kullanılmıştır. Bunun sebe
 - Asl-alphabet veri setinde 29 adet sınıf Bulunmaktadı
 - sınıf bilgileri şu şekildedir:
   ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J','K','L','M','N','O','P','Q','R','S','T','U','V','W','X','Y','Z','del','nothing','space']
-  !(img/asl_sınıf.png)
+  ![img](img/asl_sınıf.png)
 - Her sınıftan 3000 adet eğitim görüntüsüyle beraber toplamda 87000 eğitim görüntüsüne sahiptir.
-  !(img/asl_ornek.png)
+  ![img](img/asl_ornek.png)
 - 200 x 200 piksel boyutundadır her bir görüntü.
 - Veri Setine uygulanmış işlemler:
   - Görüntülerin simetrilerinin alınması
@@ -28,9 +28,9 @@ Train ve test işlemleri için iki adet veri seti kullanılmıştır. Bunun sebe
 - Syntetich-asl-alphabet veri setinde 27 adet sınıf bulunmaktadır.
 - sınıf bilgileri şu şekildedir:
   ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J','K','L','M','N','O','P','Q','R','S','T','U','V','W','X','Y','Z','space']
-  !(img/asl_test_sınıf.png)
+  ![img](img/asl_test_sınıf.png)
 - Her sınıftan 800 adet eğitim görüntüsüyle beraber toplamda 27000 eğitim görüntüsüne sahiptir.
-  !(img/asl_test_ornek.png)
+  ![img](img/asl_test_ornek.png)
 - 573 x 573 piksel boyutundadır her bir görüntü.
 - Veri Setine uygulanmış işlemler:
   - Görüntülerin rgb değerleri [-1,1] aralıklarına gelecek şekilde normalize edilmiştir
