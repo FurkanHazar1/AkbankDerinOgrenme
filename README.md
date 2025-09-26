@@ -10,7 +10,6 @@ Train ve test işlemleri için iki adet veri seti kullanılmıştır. Bunun sebe
 
 - Asl-alphabet veri setinde 29 adet sınıf Bulunmaktadı
 - sınıf bilgileri şu şekildedir:
-  ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J','K','L','M','N','O','P','Q','R','S','T','U','V','W','X','Y','Z','del','nothing','space']
   ![img](img/asl_sınıf.png)
 - Her sınıftan 3000 adet eğitim görüntüsüyle beraber toplamda 87000 eğitim görüntüsüne sahiptir.
   ![img](img/asl_ornek.png)
@@ -27,7 +26,6 @@ Train ve test işlemleri için iki adet veri seti kullanılmıştır. Bunun sebe
 
 - Syntetich-asl-alphabet veri setinde 27 adet sınıf bulunmaktadır.
 - sınıf bilgileri şu şekildedir:
-  ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J','K','L','M','N','O','P','Q','R','S','T','U','V','W','X','Y','Z','space']
   ![img](img/asl_test_sınıf.png)
 - Her sınıftan 800 adet eğitim görüntüsüyle beraber toplamda 27000 eğitim görüntüsüne sahiptir.
   ![img](img/asl_test_ornek.png)
