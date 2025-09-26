@@ -63,3 +63,5 @@ Eğitim işleminden sonra şu sonuçlara elde edilmiştir
 - Test Precision: 0.8154
 - Test Recall : 0.8013
 - Test F1 Score : 0.7978
+
+# kaggle_link = https://www.kaggle.com/code/furkanhazar/akbankderinogrenme/edit/run/262663795
